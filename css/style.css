@@ -296,14 +296,6 @@ p {
 }
 /*green_secret.html ends*/
 
-.circle {
-	position: absolute;
-  border: solid 1px #ccc;
-	width: 60px; 
-	height: 60px; 
-  border-radius: 50%;  
-}
-
 @media screen and (min-width: 750px) {
 
 .body_showroom{
